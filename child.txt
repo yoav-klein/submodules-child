@@ -1,1 +1,1 @@
-master - First commit of child
+master - Second commit of child
